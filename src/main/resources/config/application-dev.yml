@@ -75,6 +75,6 @@ spring:
 
 security:
     user:
-        name: admin
-        password: admin
+        name: admin3
+        password: admin3
         role: USER,ADMIN
